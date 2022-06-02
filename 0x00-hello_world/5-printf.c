@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry point
- * returns: Always 0 (Succes)
+ * main - prints a string that in pups the functions
+ * Description: Printing with proper grammar,”
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
