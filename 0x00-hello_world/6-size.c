@@ -4,9 +4,10 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void){
-       	char charType;
-        int intType;
+int main(void)
+{
+	'\t'char charType;
+	'\t'int intType;
 	long longType;
 	long long longlongType;
 	float floatType;
