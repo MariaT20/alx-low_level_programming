@@ -2,12 +2,12 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Success);
  */
 int main(void)
 {
-	'\t'char charType;
-	'\t'int intType;
+	char charType;
+	int intType;
 	long longType;
 	long long longlongType;
 	float floatType;
