@@ -22,9 +22,11 @@ int main(void)
 					putchar(z + '0');
 					{
 						if (!(i == 7 && j == 8 && z == 9))
+						{
+							putchar(',');
+							putchar(' ');
+						}
 					}
-					putchar(',');
-					putchar(' ');
 				}
 			}
 		}
