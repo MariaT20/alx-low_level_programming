@@ -1,8 +1,6 @@
 #include <stdio.h>
 /**
- * main entry
- *
- *Description - Printing out numbers
+ * main - entry points
  *
  * Return:(0 -success)
  *
