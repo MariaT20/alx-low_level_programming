@@ -1,15 +1,13 @@
 #include "main.h"
-
 /**
- * print_alphabet - Print the the alphabet 10 times
- *
- * Description: Prints the alphabet 10 times
- *
+ * print_alphabet_x10 - prints the alphabet 10 times
+ * Description: prints the alphabet 10 times
  * Return: 0
  */
-int main(void)
+void print_alphabet_x10(void)
 {
 	char n;
+
 	int i = 1;
 
 	while (i <= 10)
