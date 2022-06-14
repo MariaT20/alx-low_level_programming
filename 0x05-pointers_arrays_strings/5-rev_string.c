@@ -3,7 +3,6 @@
 #include "main.h"
 
 /**
- *
  *  *rev_string - update value.
  *
  *   *@s: value to be evaluate.
