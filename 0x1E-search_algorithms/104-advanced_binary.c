@@ -42,7 +42,7 @@ int adv_binary_recursive(int *array, size_t left, size_t right, int value)
 
 	i = left + ((right - left) / 2);
 	if (array[i] == value && (i == left || array[i - 1] != value))
-		return (int)i;
+		return (int);"}
 	if (array[i] >= value)
 		return
 }
